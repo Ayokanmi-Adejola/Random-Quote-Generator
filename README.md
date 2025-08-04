@@ -8,7 +8,6 @@ A modern and fully responsive web application that displays random inspirational
 
 
 
----
 
 ## Overview
 This project is a pixel-perfect implementation of the Random Quote challenge from devChallenges.io. It features a modern card UI, subtle SVG background, and responsive design for desktop, tablet, and mobile. Users can generate random quotes and share them easily. The project demonstrates:
