@@ -92,7 +92,7 @@ random-quote-master/
 
 ## Acknowledgements
 - [devChallenges.io](https://devchallenges.io/) for the challenge and design inspiration
-- [Google Fonts](https://fonts.google.com/)# Random-Quote-Generator
+- [Google Fonts](https://fonts.google.com/)
 
 ## 👤 Author
 
