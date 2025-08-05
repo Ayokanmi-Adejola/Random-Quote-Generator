@@ -91,7 +91,7 @@ random-quote-master/
 
 ## Acknowledgements
 - [devChallenges.io](https://devchallenges.io/) for the challenge and design inspiration
-- [Google Fonts](https://fonts.google.com/)
+- [Google Fonts](https://fonts.google.com/) for the beautiful fonts
 
 ## 👤 Author
 
