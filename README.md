@@ -40,7 +40,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Ayokanmi-Adejola/random-quote-master.git
+   git clone https://github.com/Ayokanmi-Adejola/Random-Quote-Generator
    ```
 2. **Navigate to the project directory:**
    ```sh
@@ -92,10 +92,3 @@ random-quote-master/
 ## Acknowledgements
 - [devChallenges.io](https://devchallenges.io/) for the challenge and design inspiration
 - [Google Fonts](https://fonts.google.com/) for the beautiful fonts
-
-## 👤 Author
-
-
-- **Coded by**: Ayokanmi Adejola
-- **Challenge by**: [devChallenges.io](https://devchallenges.io/)
-
