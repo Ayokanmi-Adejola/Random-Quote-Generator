@@ -44,7 +44,7 @@ To get a local copy up and running, follow these simple steps:
    ```
 2. **Navigate to the project directory:**
    ```sh
-   cd random-quote-master
+   cd random-quote-generator
    ```
 3. **Open `index.html` in your browser.**
 
