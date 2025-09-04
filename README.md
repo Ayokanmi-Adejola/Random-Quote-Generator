@@ -17,8 +17,6 @@ This project is a pixel-perfect implementation of the Random Quote challenge fro
 - Responsive design for all device sizes
 - Professional UI/UX and attention to detail
 
-## Screenshots
-
 | Desktop | Tablet | Mobile |
 | ------- | ------ | ------ |
 | ![Desktop](./design/Desktop_1350px.jpg) | ![Tablet](./design/Tablet_1024px.jpg) | ![Mobile](./design/Mobile_412px.jpg) |
